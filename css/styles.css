@@ -1,0 +1,11 @@
+#show-contact {
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
