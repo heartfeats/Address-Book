@@ -44,7 +44,7 @@ $(document).ready(function() {
                                    '<input type="text" class="form-control new-state">' +
                                  '</div>' +
                                '</div>');
-  }
+  });
   $("form#new-contact").submit(function(event) {
     event.preventDefault();
 
